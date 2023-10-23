@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  text-align: -webkit-center;
+}
+
+.link {
+  color: white;
+  text-decoration: none !important;
+}
+.link:hover {
+  color: white;
+}
